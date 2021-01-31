@@ -1,0 +1,48 @@
+*{
+    margin: 20;
+}
+
+header{
+    background-color: #8F6869;
+}
+
+header h1 {
+    color: #DBDAAA;
+    text-align:center;
+    padding: 30px;
+   }
+
+nav{
+    text-align: center;
+    background-color: #DB9596;
+    float: right;
+}
+
+nav ul li a{
+    text-decoration: none ;
+    color: #eeeeee;
+    display: inline-block;
+}
+
+body{
+    background-image:linear-gradient(to bottom, rgba(231, 231, 171, 0.5), rgba(50, 177, 182, 0.7)),url("images/staying-healthy-while-running-your-business-795x450.jpg");
+  }
+
+#img {
+    background-color:rgba(143,142,97,56);
+    width:30%;
+    float: left;
+}
+
+h2 {
+    background-color:rgba(143,142,97,56);
+    color: #eeeeee;
+    padding: 20px;
+}
+
+ul li{
+    color: #552e2f;
+    text-align: left;
+    text-size-adjust: 200%;
+    padding: 10px;
+}
